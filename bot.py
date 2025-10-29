@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import telebot
 import threading
 
-bot = telebot.TeleBot('7587537078:AAH3JxwjB5rKFp3Oe5WIyqkkyoTReXnEnt4')
+bot = telebot.TeleBot('YOUR BOT TOKEN')
 
 
 
